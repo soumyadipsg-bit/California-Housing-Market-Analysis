@@ -63,6 +63,18 @@ The workflow includes:
 \- Power BI
 
 
+📁 Project Structure
+
+├── California_Housing_Analysis.ipynb
+├── California_Housing_Analysis_Dashboard.pbix
+├── California_Housing_cleaned.csv
+├── Executive Dashboard.png
+├── Geographic Analysis.png
+├── Executive Summary.png
+├── requirements.txt
+└── README.md
+
+
 
 \---
 
