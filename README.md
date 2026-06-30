@@ -94,35 +94,21 @@ California-Housing-Market-Analysis/
 
 
 
-\### Executive Dashboard
+### Executive Dashboard
 
+![Executive Dashboard](Images/Executive Dashboard.png)
 
+---
 
-!\[Dashboard 1](images/Dashboard\_Page1.png)
+### Geographic Analysis
 
+![Geographic Analysis](Images/Geographic Analysis.png)
 
+---
 
-\---
+### Executive Summary
 
-
-
-\### Geographic Analysis
-
-
-
-!\[Dashboard 2](images/Dashboard\_Page2.png)
-
-
-
-\---
-
-
-
-\### Executive Summary
-
-
-
-!\[Dashboard 3](images/Dashboard\_Page3.png)
+![Executive Summary](Images/Executive Summary.png)
 
 
 
