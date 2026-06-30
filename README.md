@@ -42,6 +42,10 @@ The workflow includes:
 
 \---
 
+## 🎯 Project Objective
+
+Analyze California housing data to identify the key factors influencing house prices, build a predictive Linear Regression model, and present actionable business insights through an interactive Power BI dashboard.
+
 
 
 ## 🛠 Technologies Used
@@ -95,19 +99,19 @@ California-Housing-Market-Analysis/
 
 ### Executive Dashboard
 
-![Executive Dashboard](Executive%20Dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ---
 
 ### Geographic Analysis
 
-![Geographic Analysis](Geographic%20Analysis.png)
+![Geographic Analysis](Geographic_Analysis.png)
 
 ---
 
 ### Executive Summary
 
-![Executive Summary](Executive%20Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 
 
@@ -219,5 +223,5 @@ pip install -r requirements.txt
 
 **Soumyadip Gupta**
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/soumyadip-gupta-da
-- 💻 GitHub: https://github.com/soumyadipsg-bit
+- 🔗 LinkedIn: [linkedin.com/in/soumyadip-gupta-da](https://www.linkedin.com/in/soumyadip-gupta-da)
+- 💻 GitHub: [github.com/soumyadipsg-bit](https://github.com/soumyadipsg-bit)
