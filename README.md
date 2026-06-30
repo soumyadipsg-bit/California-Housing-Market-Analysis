@@ -44,39 +44,49 @@ The workflow includes:
 
 
 
-\## 🛠 Technologies Used
+## 🛠 Technologies Used
 
+### Programming & Analysis
 
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
 
-\- Python
+### Visualization
 
-\- Pandas
+- Matplotlib
+- Seaborn
+- Power BI
 
-\- NumPy
+## 📂 Dataset
 
-\- Matplotlib
-
-\- Seaborn
-
-\- Scikit-Learn
-
-\- Power BI
-
-
-📁 Project Structure
-
-├── California_Housing_Analysis.ipynb
-├── California_Housing_Analysis_Dashboard.pbix
-├── California_Housing_cleaned.csv
-├── Executive Dashboard.png
-├── Geographic Analysis.png
-├── Executive Summary.png
-├── requirements.txt
-└── README.md
-
+- **Source:** California Housing Dataset (Scikit-Learn)
+- **Records:** 20,640
+- **Target Variable:** House Value
+- **Features:** 8 numerical features including Median Income, House Age, Population, Latitude, and Longitude.
 
 
 \---
+
+
+## 📁 Project Structure
+
+```text
+California-Housing-Market-Analysis/
+│
+├── California_Housing_Analysis.ipynb
+├── California_Housing_Dashboard.pbix
+├── california_housing_cleaned.csv
+├── requirements.txt
+├── README.md
+└── images/
+    ├── Dashboard_Page1.png
+    ├── Dashboard_Page2.png
+    └── Dashboard_Page3.png
+```
+
+
 
 
 
@@ -160,61 +170,69 @@ The workflow includes:
 
 
 
-\## 🤖 Machine Learning
+## 🤖 Machine Learning
 
+### Model
 
+- Linear Regression
 
-Model Used:
+### Evaluation Metrics
 
-
-
-\- Linear Regression
-
-
-
-Evaluation Metrics:
-
-
-
-\- R² Score
-
-\- MAE
-
-\- MSE
-
-\- RMSE
-
-
+- R² Score
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
 
 Residual analysis was also performed to validate model performance.
 
 
 
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Correlation Analysis
+- Data Visualization
+- Linear Regression
+- Model Evaluation
+- Power BI Dashboard Development
+- Business Intelligence
+- Data Storytelling
+
+
+## 🚀 Future Improvements
+
+- Implement Random Forest Regressor.
+- Compare multiple regression algorithms.
+- Perform hyperparameter tuning.
+- Build a Streamlit web application.
+- Deploy the trained model.
+
+
 \---
 
 
 
-\## 📂 Dataset
-
-
-
-California Housing Dataset from Scikit-Learn.
-
-
-
 \---
+## ▶️ How to Run
+
+1. Clone this repository.
+2. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open `California_Housing_Analysis.ipynb` in Jupyter Notebook or JupyterLab.
+4. Run the notebook sequentially to reproduce the complete analysis and machine learning workflow.
+5. Open `California_Housing_Dashboard.pbix` in Power BI Desktop to explore the interactive dashboard.
 
 
 
-\## 👤 Author
+## 👤 Author
 
+**Soumyadip Gupta**
 
-
-\*\*Soumyadip Gupta\*\*
-
-
-
-\- LinkedIn: www.linkedin.com/in/soumyadip-gupta-da
-
-\- GitHub: https://github.com/soumyadipsg-bit
-
+- 🔗 LinkedIn: https://www.linkedin.com/in/soumyadip-gupta-da
+- 💻 GitHub: https://github.com/soumyadipsg-bit
