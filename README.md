@@ -77,13 +77,12 @@ California-Housing-Market-Analysis/
 │
 ├── California_Housing_Analysis.ipynb
 ├── California_Housing_Dashboard.pbix
-├── california_housing_cleaned.csv
+├── California_Housing_cleaned.csv
+├── Executive Dashboard.png
+├── Geographic Analysis.png
+├── Executive Summary.png
 ├── requirements.txt
-├── README.md
-└── images/
-    ├── Dashboard_Page1.png
-    ├── Dashboard_Page2.png
-    └── Dashboard_Page3.png
+└── README.md
 ```
 
 
